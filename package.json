@@ -1,6 +1,6 @@
 {
   "name": "autoresponsive-react-native",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "auto responsive grid layout library",
   "keywords": [
     "react",
@@ -15,7 +15,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ricbermo/autoresponsive-react-native.git"
+    "url": "https://github.com/nicefella/autoresponsive-react-native.git"
   },
   "scripts": {
     "lint": "eslint .",
